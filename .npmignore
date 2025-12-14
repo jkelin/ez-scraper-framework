@@ -1,0 +1,5 @@
+example
+.cursor
+node_modules
+biome.json
+*.db
